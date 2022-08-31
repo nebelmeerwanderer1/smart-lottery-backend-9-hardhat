@@ -1,0 +1,10 @@
+artifacts
+cache
+coverage
+node_modules
+
+.env
+.prettierrc
+coverage.json
+gas-report.txt
+yarn.lock
